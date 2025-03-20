@@ -27,6 +27,19 @@
         android:layout_margin="20dp"
         android:textSize="24dp"
         android:textStyle="bold"
+        android:fontFamily="@font/agbalumo"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvSplashTitle2"
+        android:text="Save Earth"
+        android:textColor="#000000"
+        android:layout_below="@+id/ivSplashLogo"
+        android:textAlignment="center"
+        android:layout_margin="40dp"
+        android:textSize="24dp"
+        android:textStyle="bold"
         android:fontFamily="@font/agbalumo"
 
         />
